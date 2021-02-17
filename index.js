@@ -22,4 +22,6 @@ function prependKitten(name){
   return newArray
 }
 
-function 
+function removeLastKitten(){
+  
+}
